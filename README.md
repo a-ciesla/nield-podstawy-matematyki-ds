@@ -1,6 +1,7 @@
 # Essential Math for Data Science – Notes (Polish)
 
-This repository contains **Jupyter Notebook notes** based on the book *"Essential Math for Data Science"* by Thomas Nield. 
+This repository contains **Jupyter Notebook notes** based on the book ["Essential Math for Data Science"](https://www.oreilly.com/library/view/essential-math-for/9781098102920/) by Thomas Nield. 
+
 The notes are written in Polish and include summaries, explanations, and solutions to the exercises stated in the book.
 
 ## Structure
