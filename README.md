@@ -1,2 +1,38 @@
-# nield-podstawy-matematyki-ds
- Study notes from "Essential Math for Data Science" by Thomas Nield in Polish
+# Essential Math for Data Science – Notes (Polish)
+
+This repository contains **Jupyter Notebook notes** based on the book *"Essential Math for Data Science"* by Thomas Nield. 
+The notes are written in Polish and include summaries, explanations, and solutions to the exercises stated in the book.
+
+## Structure
+
+...
+
+## Disclaimer
+
+This is not an official translation of the book.
+All rights to the original content belong to the author and the publisher.
+
+---
+
+## License
+
+MIT License © 2025 Adam Cieśla
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
